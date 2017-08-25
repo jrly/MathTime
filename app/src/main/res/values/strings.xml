@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MathTime</string>
+    <string name="correct">Correct</string>
+    <string name="_0_0">0/0</string>
+    <string name="_3_x_3">3 x 3</string>
+    <string name="_3">3</string>
+    <string name="_30s">30s</string>
+    <string name="go">Go</string>
+    <string name="play_again">Play_again</string>
+    <string name="addition">Addition</string>
+    <string name="division">Division</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="subtraction">Subtraction</string>
+</resources>
